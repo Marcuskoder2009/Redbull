@@ -1,0 +1,47 @@
+/*endrer bakrunsfargen*/
+body{
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+
+
+
+
+}
+
+
+
+/*endrer bakrunn på header*/
+header{
+height: 60px;
+background-color: white;
+line-height: 60px;
+border-bottom: solid black 1px; 
+
+}
+
+
+/*endrer størrelse og farge på header teksten*/
+a{
+font-size: 25px;
+text-decoration: none;
+color: black;
+margin: 0 20px;
+}
+
+/*endrer farge når du hover over header teksten*/
+a:hover{color:white}
+
+
+#søkebar {
+    border-radius: 50px; 
+    margin-left: 675px; 
+    height: 30px; 
+    width: 175px;
+font-size: medium;
+}
+
+
+
+
+
