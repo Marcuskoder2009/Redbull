@@ -3,8 +3,8 @@ body{
     background-color: white;
     margin: 0%;
     padding: 0%;
-
-
+    font-family: monospace;
+    
 
 
 }
@@ -40,6 +40,22 @@ a:hover{color:white}
     width: 175px;
 font-size: medium;
 }
+
+#Energy p{
+    font-size: 35px;
+    font-family: monospace;
+    font-weight: bold;
+    margin-left: 75px
+}
+
+#Drink{
+    background-color: rgb(243, 0, 0);
+}
+
+#Drink img{
+    margin-left: 100px;
+}
+
 
 
 
