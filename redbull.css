@@ -1,6 +1,6 @@
 /*endrer bakrunsfargen*/
 body{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     margin: 0%;
     padding: 0%;
     font-family: monospace;
@@ -49,11 +49,50 @@ font-size: medium;
 }
 
 #Drink{
-    background-color: rgb(243, 0, 0);
+    text-align: center;
+    width:300px;
 }
 
+
 #Drink img{
-    margin-left: 100px;
+    width: 150px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+#Sugarfree{
+    text-align: center;
+    width:300px;
+}
+
+
+#Sugarfree img{
+    width: 150px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+#Snø{
+    text-align: center;
+    width:300px;
+}
+
+
+#Snø img{
+    width: 150px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+
+#products{
+    display: flex;
+    flex-direction: row;
+}
+
+
+h2{
+    font-weight: bolder;
+    font-family: monospace;
 }
 
 
